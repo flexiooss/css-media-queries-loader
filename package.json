@@ -1,0 +1,12 @@
+{
+  "name": "css-media-queries-loader",
+  "version": "1.0.0",
+  "description": "Variabilize style mediaqueries at webpack compilation",
+  "main": "index.js",
+  "repository": "git@github.com:flexiooss/css-media-queries-loader.git",
+  "author": "Thomas Chatelain (https://github.com/TomAchT)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
